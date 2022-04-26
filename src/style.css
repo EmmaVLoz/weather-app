@@ -17,6 +17,8 @@ li {
   padding: 0;
   color: #a2a7a9;
   font-size: 16px;
+}
+li:first-letter {
   text-transform: capitalize;
 }
 .overview {
